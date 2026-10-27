@@ -2,7 +2,7 @@ const food = 5000;
 const transport = 3000;
 const internet= 7000;
 const entertainment = 4000;
-const income = 100000;
+const income = 1000000;
 
 const totalExpenses = (food + transport + internet + entertainment + income);
 console.log(`Total Expenses = ${totalExpenses}`);
